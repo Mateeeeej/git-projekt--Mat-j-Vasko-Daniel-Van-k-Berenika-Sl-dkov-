@@ -97,3 +97,14 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Pro web projekty
+node_modules/
+dist/
+
+# Pro Python projekty
+__pycache__/
+.env
+
+# Pro VS Code
+.vscode/
