@@ -5,7 +5,7 @@
 
 Tower hop
 2D skakacka
-klikni na odkaz pls
+klikni na odkaz pls - odkaznastahnuti.com
 matej , dan , berenika
 ja - manazer , dan - programovani , berenika - grafika
 
